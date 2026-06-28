@@ -1,77 +1,105 @@
-# React + TypeScript + Vite
+# 🚀 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and visually appealing personal portfolio built using **React.js** and **Tailwind CSS / Custom CSS**, showcasing my skills, projects, and services as a Full Stack Developer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 👨‍💻 About Me
 
-## React Compiler
+I am a Computer Engineering graduate and Full Stack Developer passionate about building scalable, responsive, and user-focused web applications. I enjoy solving real-world business problems through clean code, efficient architecture, and modern UI/UX design.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ⚡ Fully responsive design (mobile + desktop)
+- 🎨 Modern UI with smooth animations
+- 🧭 Sticky navigation with active section highlighting
+- 🧑 About section with professional introduction
+- 🛠️ Services section (Full Stack, Backend, Custom Solutions)
+- 💼 Project portfolio with live links
+- 📊 Tech stack showcase
+- 📬 Contact section with email & social links
+- 🌐 Deployed on Vercel
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## 🛠️ Tech Stack
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+**Frontend:**
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3 / Tailwind CSS
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+**Icons & UI:**
+- Boxicons
+- Custom CSS animations
 
+**Deployment:**
+- Vercel
+
+---
+
+
+---
+
+## 🚀 Live Demo
+
+👉 [View Portfolio](https://your-vercel-link.vercel.app)
+
+---
+
+## 📸 Screenshots
+## 📸 Screenshots
+
+### 🏠 Home Section
+
+![Home](./public/Screenshot/Home.png)
+
+### 👨‍💻 About Section
+![About](./public/Screenshot/About.png)
+
+### 🛠️ Services Section
+![Services](./public/Screenshot/Service.png)
+
+### 📊 Tech Stack
+![Tech Stack](./public//Screenshot/Tech%20Stack.png)
+
+### 📬 Contact Section
+![Contact](./public//Screenshot/Contact.png)---
+
+## 📬 Contact
+
+- 📧 Email: khush5237@gmail.com  
+- 💼 LinkedIn: [Khush Patel](https://www.linkedin.com/in/khush-patel-173774364/)  
+- 🐙 GitHub: https://github.com/KhushPatel1811  
+
+---
+
+## 🎯 Purpose
+
+This portfolio is built to showcase:
+- My development skills
+- Real-world project experience
+- Problem-solving ability
+- Ability to build production-ready web applications
+
+---
+
+## 📌 Future Improvements
+
+- Add blog section
+- Add project filtering system
+- Improve animations (Framer Motion)
+- Dark/light theme toggle
+- Backend integration for contact form
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub and feel free to connect with me!
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-
-```
+---
