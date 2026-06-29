@@ -26,7 +26,6 @@ export default function Services() {
             <i className={s.icon}></i>
             <h3>{s.title}</h3>
             <p>{s.desc}</p>
-            <a href="#" className="btn">Read More</a>
           </div>
         ))}
       </div>
