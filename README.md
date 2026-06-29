@@ -46,7 +46,7 @@ I am a Computer Engineering graduate and Full Stack Developer passionate about b
 
 ## 🚀 Live Demo
 
-👉 [View Portfolio](https://my-portfolio-page-beta.vercel.app/)
+👉 [View Portfolio](https://my-portfolio-eight-cyan-28.vercel.app/)
 
 ---
 
