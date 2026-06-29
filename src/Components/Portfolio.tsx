@@ -4,7 +4,7 @@ export default function Portfolio() {
         img: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=600&auto=format&fit=crop',
         title: 'Automatic Institute Time Table Generator',
         desc: "An intelligent web application that generates conflict-free academic timetables by automating scheduling, resource allocation, and faculty management.",
-        href: 'https://smart-academic-timetable-generator-k8n6n0gi6-khush-patel.vercel.app/'
+        href: 'https://smart-academic-timetable-generator.vercel.app/'
         },
     ];
 
