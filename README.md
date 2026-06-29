@@ -51,7 +51,6 @@ I am a Computer Engineering graduate and Full Stack Developer passionate about b
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 ### 🏠 Home Section
 
@@ -73,7 +72,7 @@ I am a Computer Engineering graduate and Full Stack Developer passionate about b
 
 - 📧 Email: khush5237@gmail.com  
 - 💼 LinkedIn: [Khush Patel](https://www.linkedin.com/in/khush-patel-173774364/)  
-- 🐙 GitHub: https://github.com/KhushPatel1811  
+- 🐙 GitHub: [KhushPatel1811](https://github.com/KhushPatel1811)
 
 ---
 
@@ -101,5 +100,3 @@ This portfolio is built to showcase:
 
 Give it a ⭐ on GitHub and feel free to connect with me!
 ```
-
----
